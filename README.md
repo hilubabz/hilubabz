@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=3382F7&center=true&vCenter=true&width=800&height=150&lines=UTSarga+MANandhar;FULL+STACK+DEVELOPER;AI+ENTHUSIAST;CREATIVE+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=3382F7&center=true&vCenter=true&width=800&height=150&lines=Utsarga+Manandhar;FULL+STACK+DEVELOPER;AI+ENTHUSIAST;CREATIVE+ENGINEER" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,8 +9,8 @@
   </p>
   
   <p>
-    <a href="https://linkedin.com/in/utsarga-manandhar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:utsarga.manandhar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/utsargamanandhar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:contact@utsargamanandhar.com.np"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://utsargamanandhar.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   </p>
 
@@ -64,13 +64,13 @@ I'm a **Full Stack Engineer** specializing in the MERN stack with a focus on **A
 
 | 🅿 SocialSphere | 🧳 Messayo |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/400x200?text=SocialSphere" width="100%"/> | <img src="https://via.placeholder.com/400x200?text=Messayo" width="100%"/> |
+| <img src="assets/SocialSphere.png" width="100%"/> | <img src="assets/Messayo.png" width="100%"/> |
 | AI-Moderated Social Platform | Real-Time WebSocket Chat |
 | [Code](https://github.com/hilubabz/SocialSphere) • [Live](https://socialsphere.utsargamanandhar.com.np/) | [Code](https://github.com/hilubabz/Messayo) |
 
 | 🛒 HavocAura | 🥗 Tapaiko Bazar |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/400x200?text=HavocAura" width="100%"/> | <img src="https://via.placeholder.com/400x200?text=Tapaiko+Bazar" width="100%"/> |
+| <img src="assets/HavocAura.png" width="100%"/> | <img src="assets/TapaikoBazar.png" width="100%"/> |
 | PC Parts E-Commerce & Builder | AI-Powered Marketplace |
 | [Code](https://github.com/hilubabz/HAVOCAURA) | [Code](https://github.com/nabinshrestha024/ecommerce) |
 
@@ -80,9 +80,7 @@ I'm a **Full Stack Engineer** specializing in the MERN stack with a focus on **A
 
 ### 📈 GitHub Contributions
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilubabz&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117" width="100%" />
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hilubabz&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117)
 
 <br/>
 
