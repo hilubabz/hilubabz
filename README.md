@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=3382F7&center=true&vCenter=true&width=800&height=150&lines=Utsarga+Manandhar;FULL+STACK+DEVELOPER;AI+ENTHUSIAST;CREATIVE+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=3382F7&center=true&vCenter=true&width=800&height=150&lines=Utsarga+Manandhar;FULL+STACK+DEVELOPER" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h2>🎓 CSIT Student | 💻 Full Stack Developer | 🤖 AI Enthusiast</h2>
+  <h2>🎓 CSIT Student | 💻 Full Stack Developer </h2>
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Specialist;Building+AI+Integrations;Open+Source+Contributor;Always+Learning..." alt="Typing SVG" />
   </p>
