@@ -58,25 +58,6 @@ I'm a **Full Stack Engineer** specializing in the MERN stack with a focus on **A
 
 ---
 
-### 📈 GitHub Contributions
-
-###
-![GitHub Contributions](https://github.com/hlubabz/hlubabz/blob/main/github-contribution-grid-snake-dark.svg)
-
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilubabz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilubabz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hilubabz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
 ### 💼 Current Status
 
 ```javascript
