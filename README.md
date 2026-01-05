@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Utsarga%20Manandhar&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=3382F7&center=true&vCenter=true&width=800&height=150&lines=UTSarga+MANandhar;FULL+STACK+DEVELOPER;AI+ENTHUSIAST;CREATIVE+ENGINEER" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -44,13 +44,13 @@ I'm a **Full Stack Engineer** specializing in the MERN stack with a focus on **A
         <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=py,git,postman,docker" />
+        <img src="https://skillicons.dev/icons?i=py,git,postman" />
       </td>
     </tr>
   </table>
@@ -78,7 +78,13 @@ I'm a **Full Stack Engineer** specializing in the MERN stack with a focus on **A
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilubabz&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hilubabz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" />
