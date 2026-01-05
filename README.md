@@ -60,8 +60,9 @@ I'm a **Full Stack Engineer** specializing in the MERN stack with a focus on **A
 
 ### 📈 GitHub Contributions
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hilubabz&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117)
-
+<div align="center">
+  ![GitHub Contributions](https://github.com/hlubabz/hlubabz/blob/main/github-contribution-grid-snake-dark.svg)
+</div>
 <br/>
 
 <div align="center">
