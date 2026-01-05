@@ -1,28 +1,171 @@
-<h1 align="center">Hi 👋, I'm Utsarga Manandhar</h1>
-<h3 align="center">A passionate frontend developer from Nepal interested in MERN Stack</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20[Utsarga%20Manandhar]&descAlignY=51&descAlign=62" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hilubabz&label=Profile%20views&color=0e75b6&style=flat" alt="hilubabz" /> </p>
+<div align="center">
+  <h2>🎓 CSIT Student (8th Semester) | 💻 Full Stack Developer | 🤖 AI Enthusiast</h2>
+  <p>Building scalable, AI-powered web applications with clean architecture</p>
+  <p>📍 Based in Kathmandu, Nepal | 🌏 Creating for the world</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilubabz" alt="hilubabz" /></a> </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Specialist;Building+AI+Integrations;Open+Source+Contributor;Always+Learning..." alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **MERN Stack, AI Powered Web Applications**
+<br/>
 
-- 👨‍💻 All of my projects are available at [utsargamanandhar.com.np](utsargamanandhar.com.np)
+## 🚀 About Me
 
-- 📫 How to reach me **contact@utsargamanandhar.com.np**
+> *"I love building systems that solve real-world problems."*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/utsargamanandhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsargamanandhar" height="30" width="40" /></a>
-<a href="https://fb.com/utsarga.manandhar.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utsarga.manandhar.33" height="30" width="40" /></a>
-<a href="https://instagram.com/hilubabz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilubabz" height="30" width="40" /></a>
-</p>
+I'm a passionate **Full Stack Developer** specializing in the MERN stack with a focus on integrating **AI/ML capabilities** into modern web applications. Currently wrapping up my **CSIT degree** (8th Sem) and constantly exploring the intersection of web development and artificial intelligence.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 I'm currently working on **AI-integrated SaaS applications**
+- 💬 Working on Project on **React, Node.js, System Design, & AI Integration**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilubabz&show_icons=true&locale=en&layout=compact" alt="hilubabz" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilubabz&show_icons=true&locale=en" alt="hilubabz" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hilubabz&" alt="hilubabz" /></p>
+<div align="center">
+
+### **Frontend Development**
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+### **Backend Development**
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+
+### **Database & Cloud**
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+### **AI/ML & Tools**
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🅿 SocialSphere</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200?text=SocialSphere" width="100%" alt="SocialSphere"/>
+        <p>
+          <strong>Social Media Platform with AI Content Moderation</strong><br/>
+          Built with React, Node.js, MongoDB, and ML-based offensive comment filtering.
+        </p>
+        <p>
+          <a href="https://github.com/hilubabz/SocialSphere">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://socialsphere.utsargamanandhar.com.np/">
+            <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧳 Messayo</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200?text=Messayo" width="100%" alt="Messayo"/>
+        <p>
+          <strong>Real-Time Chat Application</strong><br/>
+          WebSocket-based messaging with React, Node.js, Socket.io, and transient storage.
+        </p>
+        <p>
+          <a href="https://github.com/hilubabz/Messayo">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 HavocAura</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200?text=HavocAura" width="100%" alt="HavocAura"/>
+        <p>
+          <strong>PC Parts E-Commerce & Builder</strong><br/>
+          Full-stack e-commerce platform with custom PC configuration algorithm.
+        </p>
+        <p>
+          <a href="https://github.com/hilubabz/HAVOCAURA">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🥗 Tapaiko Bazar</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x200?text=Tapaiko+Bazar" width="100%" alt="Tapaiko Bazar"/>
+        <p>
+          <strong>AI-Powered Marketplace</strong><br/>
+          Complete e-commerce solution with integrated AI chatbot assistant.
+        </p>
+        <p>
+          <a href="https://github.com/nabinshrestha024/ecommerce">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/hilubabz?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hilubabz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilubabz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=hilubabz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hilubabz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</div>
+
+---
+
+## 💼 Status
+
+```javascript
+const devProfile = {
+  name: "Utsarga Manandhar",
+  role: "Full Stack Engineer",
+  currentFocus: {
+    learning: ["React.js", "Next.js", "Node.js", "AI Integration in Web Apps"],
+    building: ["AI-Powered Ecommerce Platform"],
+  }
+};
