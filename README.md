@@ -60,9 +60,9 @@ I'm a **Full Stack Engineer** specializing in the MERN stack with a focus on **A
 
 ### 📈 GitHub Contributions
 
-<div align="center">
-  ![Snake animation](https://github.com/hilubabz/hilubabz/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
+###
+![Snake animation](https://github.com/hilubabz/hilubabz/blob/output/github-contribution-grid-snake-dark.svg)
+
 <br/>
 
 <div align="center">
