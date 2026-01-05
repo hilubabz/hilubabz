@@ -58,26 +58,6 @@ I'm a **Full Stack Engineer** specializing in the MERN stack with a focus on **A
 
 ---
 
-### 🌟 Featured Projects
-
-<div align="center">
-
-| 🅿 SocialSphere | 🧳 Messayo |
-| :---: | :---: |
-| <img src="assets/SocialSphere.png" width="100%"/> | <img src="assets/Messayo.png" width="100%"/> |
-| AI-Moderated Social Platform | Real-Time WebSocket Chat |
-| [Code](https://github.com/hilubabz/SocialSphere) • [Live](https://socialsphere.utsargamanandhar.com.np/) | [Code](https://github.com/hilubabz/Messayo) |
-
-| 🛒 HavocAura | 🥗 Tapaiko Bazar |
-| :---: | :---: |
-| <img src="assets/HavocAura.png" width="100%"/> | <img src="assets/TapaikoBazar.png" width="100%"/> |
-| PC Parts E-Commerce & Builder | AI-Powered Marketplace |
-| [Code](https://github.com/hilubabz/HAVOCAURA) | [Code](https://github.com/nabinshrestha024/ecommerce) |
-
-</div>
-
----
-
 ### 📈 GitHub Contributions
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hilubabz&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117)
