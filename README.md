@@ -1,75 +1,40 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=3382F7&center=true&vCenter=true&width=800&height=150&lines=Utsarga+Manandhar;FULL+STACK+DEVELOPER" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <h2>🎓 CSIT Student | 💻 Full Stack Developer </h2>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Specialist;Building+AI+Integrations;Open+Source+Contributor;Always+Learning..." alt="Typing SVG" />
-  </p>
-  
-  <p>
-    <a href="https://linkedin.com/in/utsargamanandhar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:contact@utsargamanandhar.com.np"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://utsargamanandhar.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  </p>
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-  <p>📍 Kathmandu, Nepal | 🌏 Creating for the world</p>
-</div>
+<h3><code>hilubabz@github ~ $ ./contributions.sh</code></h3>
 
----
+<img src="./contrib-heatmap.svg" width="860" alt="Utsarga's GitHub contribution graph — auto-refreshed daily" />
 
-### 🚀 About Me
+<br>
+<br>
 
-I'm a **Full Stack Engineer** specializing in the MERN stack with a focus on **AI/ML integration**. Currently finishing my **CSIT degree** (8th Sem), I bridge the gap between robust web architecture and intelligent systems.
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
 
-- 🔭 **Current Focus:** AI-integrated SaaS & Scalable Architectures
-- 📚 **Learning:** Advanced System Design & LLM Fine-tuning
-- ⚡ **Fun Fact:** I believe every complex problem has a clean, elegant solution waiting to be coded.
+<h3><code>hilubabz@github ~ $ whoami</code></h3>
 
----
+<table>
+<tr>
+<td valign="top"><img src="./utsarga-ascii.svg" width="420" alt="Utsarga Manandhar — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Utsarga's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
 
-### 🛠️ Tech Stack
+<br>
+<br>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="200"><strong>Frontend</strong></td>
-      <td align="center" width="200"><strong>Backend</strong></td>
-      <td align="center" width="200"><strong>Database</strong></td>
-      <td align="center" width="200"><strong>AI & Tools</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=py,git,postman" />
-      </td>
-    </tr>
-  </table>
-</div>
+<h3><code>hilubabz@github ~ $ ./links.sh</code></h3>
 
----
+<p><b>Fullstack Developer</b></p>
 
-### 💼 Current Status
+[![Portfolio](https://img.shields.io/badge/Portfolio-utsargamanandhar.com.np-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://utsargamanandhar.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-utsargamanandhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utsargamanandhar)
+[![Instagram](https://img.shields.io/badge/Instagram-hilubabz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hilubabz)
 
-```javascript
-const developer = {
-  name: "Utsarga Manandhar",
-  status: "Open to Opportunities",
-  stack: ["MERN", "Next.js", "AI/LLM"],
-  philosophy: "Build, Learn, Scale",
-  isAvailableForHire: true
-};
-```
+<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hilubabz&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
 </div>
