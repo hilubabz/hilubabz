@@ -17,8 +17,7 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
-USERNAME = os.environ.get("GH_PROFILE_USER", "hilubabz")
-URL = f"https://github.com/users/{USERNAME}/contributions"
+URL = f"https://github.com/users/hilubabz/contributions"
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "contributions.json")
 
 
@@ -98,7 +97,7 @@ def build_data(days):
     monthly_list = [{"month": k, "total": v} for k, v in sorted(monthly.items())]
 
     return {
-        "username": USERNAME,
+        "username": "hilubabz",
         "generated_at": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "range": {"start": days[0]["date"], "end": days[-1]["date"]},
         "total_contributions": total,
